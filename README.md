@@ -14,3 +14,6 @@
 13. find is for locating a speficic file
 14. help is for when you need help on how to use a command
 15. man lets you see the manual for a command
+16. whatis provides a description of the command line programs
+17. alias helps you create a shortened name for a repetitive command
+18. exit allows you to exit from the shell
